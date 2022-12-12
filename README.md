@@ -22,7 +22,7 @@
 </div>
   
 ### :woman_technologist: About Me :
-I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - :telescope: I'm work as a software engineer and contribute to the development of open source solutions
 
