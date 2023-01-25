@@ -22,7 +22,7 @@
 </div>
   
 ### :woman_technologist: About Me :
-I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+I am a Reverse Ebgineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - :telescope: I'm work as a reverse engineer and pwn. 
 
